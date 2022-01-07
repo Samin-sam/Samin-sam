@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KAzi Samin Mahmud
+- 👋 Hi, I’m Kazi Samin Mahmud
 - 👀 I’m interested in Software Devloment
 - 🌱 I’m currently learning  ReactJs
 - 💞️ I’m looking to collaborate on any software related work
